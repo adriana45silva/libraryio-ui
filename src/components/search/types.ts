@@ -1,0 +1,1 @@
+export type RepositoriesData = Record<string, string>
